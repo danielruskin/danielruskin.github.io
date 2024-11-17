@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-11-16 10:30:00-0600
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I gave a talk on my ongoing research at the 2024 Midstates Consortium Undergraduate Research Symposium in the Physical Sciences, Mathematics and Computer Science!
