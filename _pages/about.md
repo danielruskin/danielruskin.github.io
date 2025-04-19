@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic_2.0.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: d.p.ruskin[at]wustl.edu
 
