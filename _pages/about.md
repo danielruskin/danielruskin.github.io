@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am an undergraduate in my final year studying Computer Science, Systems Science & Engineering, and History at Washington University in St. Louis. Currently, I am working with [Professor Michael Brent](https://engineering.washu.edu/faculty/Michael-Brent.html), [Woo Seok Jung](https://jungwooseok.com/), and [Sandeep Acharya](https://www.linkedin.com/in/sandeep-acharya-83abb1b7/?originalSubdomain=np) on mapping transcriptional regulatory networks using ensemble machine learning.
+I am an incoming PhD student in Information Studies at the University of Maryland. In Spring 2025, I graduated from Washington University in St. Louis with a B.S. in Computer Science, a second major in Systems Science & Engineering, and a minor in History. Currently, my research interests include data science (network analysis, visualization, machine learning, GIS) and digital history. 
 
-This fall, I will be heading to College Park to pursue a PhD in Information Studies at the University of Maryland. Through collaborations within this interdisciplinary program, I will explore how data and computing can play a role in addressing today's hardest social and technical problems. I look forward to getting started!
+In the past, my research centered on applications of data science in biology and public health, including mapping biological networks in humans and analyzing predictors of opioid prescribing in the emergency department. Through history courses and project-based courses at the intersection of data science and history, I became interested in how data science tools can help us better understand the past, and how data science practices can be informed by theory from the humanities and social sciences. 
+
+My broad interests across data science, the humanities, and the social sciences have led me to the interdisciplinary field of information studies.
